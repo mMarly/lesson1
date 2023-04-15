@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+main{
+background-image: url(https://images.unsplash.com/photo-1493397212122-2b85dda8106b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
+color: white;
+height: 100vh;
+text-align: center;
+background-size: cover;
+margin: 0;
+}
+h1{
+    margin: 0;
+    text-align: center;
+}
+h3{
+    margin: 0;
+    text-align: center;
+}
+.main-navigation{
+    display: flex;
+    list-style: none;
+}
+.main-navigation-item{
+    padding-left: 10px;
+    padding-right: 120px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: x-large;
+}
+.main-button{
+    display: flex;
+    background-color: rgb(147, 147, 255);
+    border-width: 3px;
+    border-color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+}
+.main-header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 15px;
+}
